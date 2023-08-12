@@ -1,0 +1,19 @@
+{
+  "name": "sellix-webhook-integration",
+  "version": "1.0.0",
+  "description": "Sellix Invoice System with Webhooks Integration",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Quepe0/Sellix-Webhook-ExpressJS.git"
+  },
+  "author": "Quepe | https://quepe.pl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Quepe0/Sellix-Webhook-ExpressJS/issues"
+  },
+  "homepage": "https://github.com/Quepe0/Sellix-Webhook-ExpressJS#readme"
+}
