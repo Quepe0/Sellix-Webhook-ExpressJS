@@ -3,7 +3,7 @@ const bodyParser = require('body-parser');
 const sellix = require('@sellix/node-sdk')('YOUR_SELLIX_SECRET_API_KEY', 'YOUR_SELLIX_USERNAME');
 
 const app = express();
-const port = 4242;
+const PORT = 4242;
 
 app.use(bodyParser.json({ limit: '100mb' }));
 
